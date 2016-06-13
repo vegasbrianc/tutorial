@@ -1,3 +1,5 @@
+> Credit: https://gitlab.com/cloudformation/tutorial
+
 # CFN Tutorial & Best Practices
 
 Welcome to the guide. This guide will attempt to quickly help you use AWS Cloudformation, define some of the best practices and caveats and then lead you to the rest of the documentation that will help you become an expert in Cloudformation usage.
