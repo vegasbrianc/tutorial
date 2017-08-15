@@ -20,11 +20,12 @@ Stacks (Created via Templates) can be very simple, maybe a single template that 
 ### Template Components
 
 All templates are JSON formated and consist of the following:
-Parameters
-Mappings
-Conditions
-Resources
-Outputs
+* Parameters
+* Mappings
+* Conditions
+* Resources
+* Outputs
+
 The anatomy of which looks like the following:
 ```sh
 {
